@@ -1,0 +1,12 @@
+C:\Users\jani\Documents\Visual Studio 2015\Projects\CSharp Programmering 1\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\bin\Debug\Uppgift1.2-Växelpengar.exe.config
+C:\Users\jani\Documents\Visual Studio 2015\Projects\CSharp Programmering 1\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\obj\Debug\Uppgift1.2-Växelpengar.csprojResolveAssemblyReference.cache
+C:\Users\jani\Documents\Visual Studio 2015\Projects\CSharp Programmering 1\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\bin\Debug\Uppgift1.2-Växelpengar.exe
+C:\Users\jani\Documents\Visual Studio 2015\Projects\CSharp Programmering 1\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\bin\Debug\Uppgift1.2-Växelpengar.pdb
+C:\Users\jani\Documents\Visual Studio 2015\Projects\CSharp Programmering 1\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\obj\Debug\Uppgift1.2-Växelpengar.exe
+C:\Users\jani\Documents\Visual Studio 2015\Projects\CSharp Programmering 1\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\obj\Debug\Uppgift1.2-Växelpengar.pdb
+P:\jani\Documents\Developer\VisualStudio\FYD421-GU-CSharp-programming-kurs-projekt\Excercises\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\bin\Debug\Uppgift1.2-Växelpengar.exe.config
+P:\jani\Documents\Developer\VisualStudio\FYD421-GU-CSharp-programming-kurs-projekt\Excercises\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\obj\Debug\Uppgift1.2-Växelpengar.exe
+P:\jani\Documents\Developer\VisualStudio\FYD421-GU-CSharp-programming-kurs-projekt\Excercises\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\obj\Debug\Uppgift1.2-Växelpengar.pdb
+P:\jani\Documents\Developer\VisualStudio\FYD421-GU-CSharp-programming-kurs-projekt\Excercises\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\bin\Debug\Uppgift1.2-Växelpengar.exe
+P:\jani\Documents\Developer\VisualStudio\FYD421-GU-CSharp-programming-kurs-projekt\Excercises\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\bin\Debug\Uppgift1.2-Växelpengar.pdb
+P:\jani\Documents\Developer\VisualStudio\FYD421-GU-CSharp-programming-kurs-projekt\Excercises\Uppgift1.2-Växelpengar\Uppgift1.2-Växelpengar\obj\Debug\Uppgift1.2-Växelpengar.csprojResolveAssemblyReference.cache
